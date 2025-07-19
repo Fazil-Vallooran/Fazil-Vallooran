@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fazil-vallooran&label=Profile%20views&color=0e75b6&style=flat" alt="fazil-vallooran" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fazil-vallooran" alt="fazil-vallooran" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fazil-vallooran&theme=gruvbox&column=-1" alt="fazil-vallooran" /></a> </p>
 
 - 🔭 I’m currently working on **an Open Source Playwright Framework**
 
