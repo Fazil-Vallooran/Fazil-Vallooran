@@ -27,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fazil-vallooran&show_icons=true&locale=en&layout=compact" alt="fazil-vallooran" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fazil-vallooran&show_icons=true&locale=en" alt="fazil-vallooran" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fazil-vallooran&" alt="fazil-vallooran" /></p>
